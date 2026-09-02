@@ -1,4 +1,4 @@
-#🕵🏿 Gerador de Dork
+# 🕵🏿 Gerador de Dork
 
 #googledorks #osint #cybersecurity #redteam #recon #pentest
 
